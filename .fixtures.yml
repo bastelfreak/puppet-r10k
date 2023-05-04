@@ -1,6 +1,5 @@
 fixtures:
   repositories:
-    apt: https://github.com/puppetlabs/puppetlabs-apt.git
     choria: https://github.com/choria-io/puppet-choria.git
     concat: https://github.com/puppetlabs/puppetlabs-concat.git
     cron_core: https://github.com/puppetlabs/puppetlabs-cron_core.git
